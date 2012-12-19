@@ -1,4 +1,4 @@
 js-tilemap-editor
 =================
 
-Javascript Tilemap Editor
+Javascript Tilemap Editor originally written by Samuel Ronce https://github.com/RSamaium.
